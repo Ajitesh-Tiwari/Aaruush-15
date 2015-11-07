@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@android:color/transparent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <webarch.aaruush15.TeamFragments.FontTextView
+        style="@style/TextView.Nickname"
+        android:id="@+id/nickname" />
+
+    <LinearLayout
+        android:layout_below="@+id/nickname"
+        android:id="@+id/interestsPrimary"
+        style="@style/LinearLayout.Interests">
+
+        <webarch.aaruush15.TeamFragments.FontTextView
+            style="@style/TextView.Interest"
+            android:id="@+id/interest_1" />
+        <webarch.aaruush15.TeamFragments.FontTextView
+            style="@style/TextView.Interest"
+            android:id="@+id/interest_2" />
+    </LinearLayout>
+
+</RelativeLayout>

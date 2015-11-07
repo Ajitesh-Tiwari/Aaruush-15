@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="black" type="color">#FF000000</item>
+
+    <item name="red" type="color">#FFF44336</item>
+    <item name="darkred" type="color">#FFD32F2F</item>
+    <item name="amber" type="color">#FFFFC107</item>
+    <item name="pink" type="color">#FFFFCDD2</item>
+    <item name="white" type="color">#FFFFFFFF</item>
+    <item name="darkgrey" type="color">#FF212121</item>
+    <item name="grey" type="color">#FF727272</item>
+    <item name="lightgrey" type="color">#FFB6B6B6</item>
+    <item name="lightergrey" type="color">#D0D0D0</item>
+
+    <item name="Primary" type="color">@color/red</item>
+    <item name="PrimaryDark" type="color">@color/darkred</item>
+    <item name="PrimaryLight" type="color">@color/pink</item>
+    <item name="Text" type="color">@color/white</item>
+    <item name="PrimaryText" type="color">@color/darkgrey</item>
+    <item name="SecondaryText" type="color">@color/grey</item>
+    <item name="Divider" type="color">@color/lightergrey</item>
+    <item name="Accent" type="color">@color/amber</item>
+
+
+
+    <color name="saffron">#F4B63E</color>
+    <color name="sienna">#EB6460</color>
+    <color name="green">#10b4a5</color>
+    <color name="purple">#7c57e4</color>
+    <color name="orange">#ff8c6a</color>
+
+
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="half_black">#808080</color>
+    <color name="white_pressed">#f1f1f1</color>
+</resources>

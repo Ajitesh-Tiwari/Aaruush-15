@@ -1,0 +1,1022 @@
+<webarch.aaruush15.Discroll.DiscrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:discrollve="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <webarch.aaruush15.Discroll.DiscrollViewContent
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="150sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Title Sponsor"
+            android:textSize="28sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="80sp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_gravity="center"
+            android:src="@drawable/lenovo" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="200sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Co-Sponsor"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="100sp"
+            android:layout_margin="20dp"
+            android:layout_gravity="center"
+            android:src="@drawable/national_instruments"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Associate Sponsor"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="100sp"
+            android:layout_margin="20dp"
+            android:layout_gravity="center"
+            android:src="@drawable/cisco"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Automotive Partner"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/honda"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Telecommunications Partner"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/vf_logo"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Championships Partner"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/pay_pal"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Banking Partner"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/indian_bank"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Technology Partner"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/casio"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Coupons Partner"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/grab_on"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Mobility Partner"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/gupshup"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Programming Partner"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/hacker_rank"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Ticketing Partner"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/chennaiyil"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Online Shopping Partner"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/e_bay"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Online Platform Partner"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/code_chef"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Aaruush Main Quiz Partner"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/iimk"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Startup Partner"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/foodking"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Bicycle Partner"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/bsahercules"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Education Partner"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/byjus"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/hotcourses"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Internship Partner"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/greymeter"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Events Partner"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/internshala"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Robotics Club Partner"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/sp_robotics_works"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Gift Partner"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/zebronic"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Education Consultancy Partner"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/kanths"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Software Education Partner"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/kksoft"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Mobile Application Partner"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/mii"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Online Education Partner"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/shiksha"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Workshop Partners"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/aerotrix"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/ark_tech"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/civil_sim"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/frugal_lab"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/ppl_combine"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/prigma"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Visual Media Partner"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/k_news"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/t_news"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/tv_9"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Print Media Partner"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/amar_ujala"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/eanadu"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/the_hindu"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/the_hindu_tamil"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Magazine Partner"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/india_today"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Cause Partners"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/cry"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/peta"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/paperman"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/mad"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Online Media Partners"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/allevents"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/askme"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/btech_josh"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/college_kha"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/events_tigers"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/fadoo_eng"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/fest_pav"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/fest_station"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/fests"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/getmyuni"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/hook_events"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/india_coll"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/ingineeri"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/knowafest"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/ohcampus"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/pricebaba"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/thecollegefever"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/srmbyag"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Primary"
+            android:padding="5sp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="Other Partner"
+            android:textSize="28sp"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_translation="fromBottom"
+            discrollve:discrollve_threshold="0.3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/million_minds"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_margin="20sp"
+            android:layout_gravity="center"
+            android:src="@drawable/travancore_builders"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"  />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="200sp" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200sp"
+            android:layout_gravity="center"
+            android:src="@drawable/thank_you"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="200sp" />
+
+    </webarch.aaruush15.Discroll.DiscrollViewContent>
+</webarch.aaruush15.Discroll.DiscrollView>

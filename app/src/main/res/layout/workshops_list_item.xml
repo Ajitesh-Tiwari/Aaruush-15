@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:background="@color/white"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="75dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/title"
+            android:textSize="18sp"
+            android:textColor="@color/black"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Title" />
+        <TextView
+            android:id="@+id/date"
+            android:textSize="11sp"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="3dp"
+            android:textColor="@color/grey"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="date" />
+        <TextView
+            android:id="@+id/price"
+            android:textSize="11sp"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="2dp"
+            android:textColor="@color/grey"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="price" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/image"
+        android:transitionName="Test_Image"
+        android:scaleType="fitXY"
+        android:layout_marginTop="7dp"
+        android:layout_marginBottom="7dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="10dp"
+        android:layout_width="61dp"
+        android:layout_height="61dp" />
+</LinearLayout>

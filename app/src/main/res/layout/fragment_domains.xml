@@ -1,0 +1,22 @@
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <GridView
+        android:id="@+id/gridView1"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:numColumns="2"
+        android:paddingBottom="10sp"
+        android:verticalSpacing="10dp"
+        android:horizontalSpacing="10dp"
+        android:background="@color/white">
+    </GridView>
+</RelativeLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_weight="100"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black">
+    <TextView
+        android:layout_weight="10"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@color/Primary"
+        android:text="Pro-Shows"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
+        android:layout_gravity="center"
+        android:gravity="center"/>
+
+    <com.daimajia.slider.library.SliderLayout
+        android:layout_weight="80"
+        android:id="@+id/slider"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        />
+    <TextView
+        android:layout_weight="10"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@android:color/black"
+        android:text="Automatic Slide Show"
+        android:textColor="#FFFFFF"
+        android:layout_gravity="center"
+        android:gravity="center"/>
+
+</LinearLayout>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\exploded-aar\com.daimajia.slider\library\1.1.5\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\pre-dexed\debug\classes-e3eebac4cdf7068237fae27837add6cdb2c2cc3b.jar" />
+    </item>
+    <item
+        jar="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.0.7\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b105aa5409ceb15382344efedf970c1b8257a09a">
+        <dex dex="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\pre-dexed\debug\classes-cd3f2f0ef157562d697c1e7f8e98622c54e5169a.jar" />
+    </item>
+    <item
+        jar="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\exploded-aar\Aaruush15-master\MaterialTabsModule\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0c8144958683557c0658d3b8f25ecc7f69956a77">
+        <dex dex="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\pre-dexed\debug\classes-3f632f79e11be2845f07e733381606a7357b19db.jar" />
+    </item>
+    <item
+        jar="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\pre-dexed\debug\classes-48a165e583af3dc36c470fcd59c72601d8957495.jar" />
+    </item>
+    <item
+        jar="C:\Users\AJITESH\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\pre-dexed\debug\picasso-2.3.2-e79a872691aa543597a3ae93bd412eb6959d5054.jar" />
+    </item>
+    <item
+        jar="C:\Users\AJITESH\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\pre-dexed\debug\library-2.4.0-97cd3ff6f5c2353ac541406e85ac4f357d3041cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="078cad8ebaa25b1eb1790bd622b3a8ae27c9cc7a">
+        <dex dex="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\pre-dexed\debug\classes-cb2612a226ef96e1c1dd94f01c15d78ef73012bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-8d2c2635319c06a17a494efc1b7c427476370f44.jar" />
+    </item>
+    <item
+        jar="C:\Users\AJITESH\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.8\77bbfe240e437ecb396d982afa0d3bd4f9090ba7\android-async-http-1.4.8.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.8-53c2aa7dceeec4d4dde18cdb4963933ae4847912.jar" />
+    </item>
+    <item
+        jar="C:\Users\AJITESH\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-99ebb77ebb90612b256f7719603c9ca2e30875a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\exploded-aar\com.github.sd6352051.niftydialogeffects\niftydialogeffects\1.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f6e011916db951e72f3a2be65cfb864bf5408035">
+        <dex dex="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\pre-dexed\debug\classes-c71091aa17a59867a5308e9487d5d8ed6e1af719.jar" />
+    </item>
+    <item
+        jar="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\pre-dexed\debug\classes-2145adbee2d7f6cfc4da2b690333e1bb65c97ec3.jar" />
+    </item>
+    <item
+        jar="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\pre-dexed\debug\classes-e2a9c629103558f73373c8c295f0a2fac1b24914.jar" />
+    </item>
+    <item
+        jar="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\exploded-aar\com.github.ksoichiro\android-observablescrollview\1.5.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="256c2cf84542c459927ed4aa5f99a9b47855c071">
+        <dex dex="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\pre-dexed\debug\classes-8c2d9558ce5f58b2efddd151afedfe72243c9c0d.jar" />
+    </item>
+    <item
+        jar="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\pre-dexed\debug\classes-c0d25a1737fe73c53bd5964a02b7671d9e9dd891.jar" />
+    </item>
+    <item
+        jar="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\exploded-aar\com.github.markushi\android-ui\1.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="96436aef5f48b09aca1e0183dfcd7782aa580bd6">
+        <dex dex="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\pre-dexed\debug\classes-5436ef70b7c6ba8287f073f753e78f84d37867bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\exploded-aar\com.balysv\material-ripple\1.0.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aba9317bc403d69d8a571c0a72acfe95698a5db0">
+        <dex dex="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\pre-dexed\debug\classes-53ebc6437cc498a607c69d0ff15eaf617ff74921.jar" />
+    </item>
+    <item
+        jar="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\exploded-aar\Aaruush15-master\MaterialNavigationDrawerModule\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3dd65987116ffb8be5a20e135448e2a277892235">
+        <dex dex="C:\Users\AJITESH\Desktop\Aaruush15-master\Aaruush15-master\app\build\intermediates\pre-dexed\debug\classes-511f88d337652bfa6f114de5c3d15634276ec593.jar" />
+    </item>
+
+</items>
